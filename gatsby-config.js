@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: `Elyseos Seed Sale`,
-    description: `Elyseos.`,
+    description: `A decentralised sacramental medicine ecosystem`,
     author: `Sy Tzu`,
   },
   plugins: [

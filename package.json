@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-saas-marketing",
   "private": true,
-  "description": "A simple one page marketing starter for saas companies",
+  "description": "A decentralised sacramental medicine ecosystem",
   "version": "0.1.0",
-  "author": "Keegan Burkett <keegan.2.burkett@gmail.com>",
+  "author": "Sy Tzu <simontzu@gmail.com>",
   "dependencies": {
     "formik": "^2.2.9",
     "gatsby": "^2.30.1",
