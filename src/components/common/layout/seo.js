@@ -20,6 +20,8 @@ const SEO = ({ description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description
 
+  console.log("description: ", metaDescription)
+
   return (
     <Helmet
       htmlAttributes={{

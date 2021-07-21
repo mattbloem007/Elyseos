@@ -13,7 +13,7 @@ import Banner from "../components/sections/banner"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Home" description="A decentralised sacramental medicine ecosystem"/>
     <Banner />
     <GetStarted />
   </Layout>
